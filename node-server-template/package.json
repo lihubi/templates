@@ -1,0 +1,13 @@
+{
+  "name": "hellonode",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.5.4",
+    "supervisor": "^0.12.0"
+  }
+}
